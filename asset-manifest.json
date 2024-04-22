@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e52097d0.css",
+    "main.js": "/Portfolio/static/js/main.e9389c14.js",
+    "static/media/MexicoWebsite.png": "/Portfolio/static/media/MexicoWebsite.d78e98eba805cc18c159.png",
+    "static/media/cafeteria.png": "/Portfolio/static/media/cafeteria.2d9fa78f878b8f4e2e63.png",
+    "static/media/MovieWebsite.png": "/Portfolio/static/media/MovieWebsite.e6482e722e07291bf9cd.png",
+    "static/media/ecommerce.png": "/Portfolio/static/media/ecommerce.6468990de81f6950e53d.png",
+    "static/media/Daniel.jpeg": "/Portfolio/static/media/Daniel.f364b9541d542641b08f.jpeg",
+    "static/media/React.png": "/Portfolio/static/media/React.9f979d06a9d8300dc012.png",
+    "static/media/tw.png": "/Portfolio/static/media/tw.6b72e9f3163468fd7278.png",
+    "static/media/java.png": "/Portfolio/static/media/java.7ac94361208a62d92104.png",
+    "static/media/html.png": "/Portfolio/static/media/html.36161fd71b4cfacaf10c.png",
+    "static/media/css.png": "/Portfolio/static/media/css.e45638344f12f3855ca0.png",
+    "static/media/sql1.webp": "/Portfolio/static/media/sql1.308ae6f4f5576f757f91.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.e52097d0.css.map": "/Portfolio/static/css/main.e52097d0.css.map",
+    "main.e9389c14.js.map": "/Portfolio/static/js/main.e9389c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52097d0.css",
+    "static/js/main.e9389c14.js"
+  ]
+}
